@@ -1,4 +1,4 @@
-# Project Overview: Chapstone 2 - Data Analysis
+# Project Overview: Chapstone 2 - Employees Data Analysis
 
 Analysis in this project using Northwind databases with focus analysis on employees data. The general steps of the analysis is following statement.
 
